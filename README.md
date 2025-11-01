@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="240pt" src="https://github.com/vladisrael.png">
+  <img width="280pt" src="./hatsune-miku-dance.gif">
 </p>
 
 <div align="center">
