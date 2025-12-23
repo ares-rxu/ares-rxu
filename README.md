@@ -1,27 +1,23 @@
 <p align="center">
-  <img width="280pt" src="./hatsune-miku-dance.gif">
+  <img width="280pt" src="./hakari-dance-dmc-4.gif">
 </p>
 
 <div align="center">
   
-  # Vladisrael
-  Face retribution all alone.
+  # MIRA
+  1800
 
 </div>
 
-I'm a gamedev & programmer, also studying philosophy.
-
-Lead developer and founder of [Vendetta-chan Studios](https://vendetta-chan-studios.itch.io/).
-
-Fluent in English & Spanish, currently learning Russian.
+Just bored.
 
 ---
 
-[Мегатред Сенпая](https://vladisrael.github.io/senpai-megathread/)
+[Мегатред Сенпая](https://mira-xt.github.io/senpai-megathread/)
 
-[Artemis Language](https://vladisrael.github.io/arx-lang/)
+[Artemis Language](https://mira-xt.github.io/arx-lang/)
 
-[Pakhomov GSC](https://github.com/vladisrael/pakhomov-gsc)
+[Pakhomov GSC](https://github.com/mira-xt/pakhomov-gsc)
 
 ---
 
