@@ -1,11 +1,11 @@
 <p align="center">
-  <img width="280pt" src="./hakari-dance-dmc-4.gif">
+  <img width="280pt" src="./zzz-zenless-zone-zero.gif">
 </p>
 
 <div align="center">
   
-  # MIRA
-  1800
+  # ARES
+  ТЕБЕ ПИЗДА
 
 </div>
 
@@ -13,11 +13,9 @@ Just bored.
 
 ---
 
-[Мегатред Сенпая](https://mira-xt.github.io/senpai-megathread/)
+[Мегатред Сенпая](https://ares-rxu.github.io/senpai-megathread/)
 
-[Artemis Language](https://mira-xt.github.io/arx-lang/)
-
-[Pakhomov GSC](https://github.com/mira-xt/pakhomov-gsc)
+[Artemis Language](https://ares-rxu.github.io/artemis-language/)
 
 ---
 
