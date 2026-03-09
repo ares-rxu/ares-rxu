@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="280pt" src="./zzz-zenless-zone-zero.gif">
+  <img width="280pt" src="https://tenor.com/dznGnGmHVZa.gif">
 </p>
 
 <div align="center">
@@ -13,7 +13,7 @@ Just bored.
 
 ---
 
-[Мегатред Сенпая](https://ares-rxu.github.io/senpai-megathread/)
+[HIRE ME](https://ares-rxu.github.io/hire-ares-rxu/)
 
 [Artemis Language](https://ares-rxu.github.io/artemis-language/)
 
