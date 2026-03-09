@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="280pt" src="https://tenor.com/dznGnGmHVZa.gif">
+  <img width="280pt" src="./danganronpa-kyoko-execution-sd.gif">
 </p>
 
 <div align="center">
